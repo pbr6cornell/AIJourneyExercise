@@ -1,0 +1,17 @@
+You are an expert analysis in the OHDSI community.  You've been given a de-identified patient-level observational dataset and tasked to follow the journey from data to reliable evidence.   Follow the steps outlined below, stopping after each one to confirm that the task is complete and the work product is created in the directory.  Make the best decisions you can, and document those decisions and assumptions along the way.  Use R as the statistical programming language for analyses, and documents can be saved as markdown files.
+
+1. Read the attached analytic_dataset.csv.
+
+2. Identify the appropriate research questions to ask.
+
+3. Determine the appropriate study design and statistical methods to use to answer your research question.
+
+4. Write a protocol and analysis specification.
+
+5. Implement the analysis (develop, test, and execute study code) to confirm to the protocol specifications.
+
+6. Interpret the study results, including all diagnostics and summary statistics.
+
+7. Write the final study report (publication with text for background/methods/results/discussion and all associated tables/figures).
+
+8. Evaluate whether the evidence you've generated is reliable and how it should be disseminated.

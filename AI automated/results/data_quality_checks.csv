@@ -1,0 +1,7 @@
+"check","result","value","action"
+"Required columns present",TRUE,"","Stop if false"
+"Input row count",TRUE,"57576","Stop if false"
+"Required fields complete",TRUE,"0","Exclude incomplete records if any"
+"PERSON_ID unique",TRUE,"0","Stop if false"
+"COHORT_ID values limited to 0/1",TRUE,"0; 1","Stop if false"
+"AE values limited to 0/1",TRUE,"0; 1","Stop if false"
